@@ -10,7 +10,7 @@
 
 pkgname=gitkraken
 pkgrel=2
-pkgver=7.5.0
+pkgver=8.1.0
 pkgdesc="The intuitive, fast, and beautiful cross-platform Git client."
 url="https://www.gitkraken.com/"
 provides=('gitkraken')
