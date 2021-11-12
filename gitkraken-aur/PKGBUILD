@@ -9,8 +9,8 @@
 # Contributor: KokaKiwi <kokakiwi+aur@kokakiwi.net>
 
 pkgname=gitkraken
-pkgrel=2
-pkgver=8.1.0
+pkgrel=1
+pkgver=8.1.1
 pkgdesc="The intuitive, fast, and beautiful cross-platform Git client."
 url="https://www.gitkraken.com/"
 provides=('gitkraken')
